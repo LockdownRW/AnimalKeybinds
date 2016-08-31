@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Animal Keybinds</name>
   <author>Lockdown</author>
-  <targetVersion>0.14.1249</targetVersion>
+  <targetVersion>0.15.1280</targetVersion>
   <description>
     New keybinds to cycle through tamed animals. (Default 'Home' and 'End')
   </description>
