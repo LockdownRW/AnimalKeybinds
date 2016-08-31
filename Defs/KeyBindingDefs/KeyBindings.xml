@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KeyBindingDefs>
+
+    <KeyBindingDef Name="GameMapKeyBinding" Abstract="true">
+        <category>AnimalKeybinds</category>
+    </KeyBindingDef>
+	
+	<KeyBindingDef ParentName="GameMapKeyBinding">
+        <defName>PreviousAnimal</defName>
+        <label>Previous Animal</label>
+		<defaultKeyCodeA>Home</defaultKeyCodeA>
+    </KeyBindingDef>
+
+    <KeyBindingDef ParentName="GameMapKeyBinding">
+        <defName>NextAnimal</defName>
+        <label>Next Animal</label>
+		<defaultKeyCodeA>End</defaultKeyCodeA>
+    </KeyBindingDef>
+	
+</KeyBindingDefs>
